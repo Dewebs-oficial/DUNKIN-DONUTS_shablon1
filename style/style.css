@@ -1,0 +1,131 @@
+body{
+    min-width: 850px;
+}
+.main{
+    width: 100%;
+    height: 80px;
+    background-color: #fff;
+    text-align: center;
+    display: inline-block;
+}
+
+.main_nomer{
+    display: inline-block;
+    font-size: 13px;
+    margin-left: 280px;
+}
+.main_nomer1{
+    text-decoration: none;
+    color: #000;
+    font-size: 32px;
+}
+
+.main1_href{
+    text-align: center;   
+}
+.main1_a{
+    border-radius: 3px;
+    padding: 8px;
+    background-color:#f5821f;
+    color:  #fff;
+    text-align: center;
+    font-size: 18px;
+    margin-left: 50px;
+    text-decoration: none;
+    text-transform: uppercase;
+    -webkit-transition: all 0.3s ease;;
+    -moz-transition: all 0.3s ease;;
+    -o-transition: all 0.3s ease;;
+    transition: all 0.3s ease;
+}
+
+.main1_a:hover{
+    border-radius: 3px;
+    padding: 12px;
+    background-color:#ea4498;
+    color:  #fff;
+    -webkit-transition: all 0.3s ease;;
+    -moz-transition: all 0.3s ease;;
+    -o-transition: all 0.3s ease;;
+    transition: all 0.3s ease;
+}
+.main11_a{
+    border-radius: 3px;
+    padding: 8px;
+    background-color:#f5821f;
+    color:  #fff;
+    text-align: center;
+    font-size: 18px;
+
+    text-decoration: none;
+    text-transform: uppercase;
+    -webkit-transition: all 0.3s ease;;
+    -moz-transition: all 0.3s ease;;
+    -o-transition: all 0.3s ease;;
+    transition: all 0.3s ease;
+}
+
+.main11_a:hover{
+    border-radius: 3px;
+    padding: 12px;
+    background-color:#ea4498;
+    color:  #fff;
+    -webkit-transition: all 0.3s ease;;
+    -moz-transition: all 0.3s ease;;
+    -o-transition: all 0.3s ease;;
+    transition: all 0.3s ease;
+}
+.main_logo{
+    display: inline-block;
+}
+.main_pusto{
+    height: 105px;
+    width: 105px;
+    background: #000;
+}
+.container{
+    width: 275px;
+    display: inline-block;
+    margin-left: 120px;
+}
+.container:first-child{
+    margin-left: 0px;
+
+
+}
+.container_1:hover{
+    transform: scale(1.1);
+
+}
+.container1_text{
+    color: #fff;
+    width: 275px;
+    height: 5.6875rem;
+    background-color:#f5821f;
+    border-bottom-left-radius: 10px; /* Левый нижний уголок */
+    border-bottom-right-radius: 10px;
+    text-align: center;
+    position: relative; /* Абсолютное позиционирование */
+    bottom: 20px; /* Положение от нижнего края */
+}
+
+.container1_text1{
+    position: relative; /* Абсолютное позиционирование */
+    bottom: 29px; /* Положение от нижнего края */
+    text-decoration: none;
+
+}
+
+.container1_p{
+    position: relative; /* Абсолютное позиционирование */
+    top: 30px; /* Положение от нижнего края */
+    font-size: 29px;
+    text-decoration: none;
+}
+.footer_img{
+    display: inline-block;
+}
+.footer_text{
+    display: inline-block;
+    margin-left: 260px;
+}
